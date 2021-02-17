@@ -1,0 +1,15 @@
+M:\Repos\Enigma2.0\bin\Debug\netcoreapp3.1\Enigma2.0.exe
+M:\Repos\Enigma2.0\bin\Debug\netcoreapp3.1\Enigma2.0.deps.json
+M:\Repos\Enigma2.0\bin\Debug\netcoreapp3.1\Enigma2.0.runtimeconfig.json
+M:\Repos\Enigma2.0\bin\Debug\netcoreapp3.1\Enigma2.0.runtimeconfig.dev.json
+M:\Repos\Enigma2.0\bin\Debug\netcoreapp3.1\Enigma2.0.dll
+M:\Repos\Enigma2.0\bin\Debug\netcoreapp3.1\Enigma2.0.pdb
+M:\Repos\Enigma2.0\obj\Debug\netcoreapp3.1\Enigma2.0.csprojAssemblyReference.cache
+M:\Repos\Enigma2.0\obj\Debug\netcoreapp3.1\Enigma2._0.Form1.resources
+M:\Repos\Enigma2.0\obj\Debug\netcoreapp3.1\Enigma2.0.csproj.GenerateResource.cache
+M:\Repos\Enigma2.0\obj\Debug\netcoreapp3.1\Enigma2.0.AssemblyInfoInputs.cache
+M:\Repos\Enigma2.0\obj\Debug\netcoreapp3.1\Enigma2.0.AssemblyInfo.cs
+M:\Repos\Enigma2.0\obj\Debug\netcoreapp3.1\Enigma2.0.csproj.CoreCompileInputs.cache
+M:\Repos\Enigma2.0\obj\Debug\netcoreapp3.1\Enigma2.0.dll
+M:\Repos\Enigma2.0\obj\Debug\netcoreapp3.1\Enigma2.0.pdb
+M:\Repos\Enigma2.0\obj\Debug\netcoreapp3.1\Enigma2.0.genruntimeconfig.cache
